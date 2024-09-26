@@ -1,0 +1,12 @@
+version: '3'
+services:
+  whatsapp-app:
+    build: .
+    container_name: whatsapp_app
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/app/src
+    environment:
+      - NODE_ENV=production
+    command: npm run start-server
