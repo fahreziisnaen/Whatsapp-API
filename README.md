@@ -52,7 +52,6 @@ Untuk mengirim pesan, kamu dapat menggunakan endpoint `/send-message`. Berikut a
 ### Mendapatkan id Group
 Untuk mengirim pesan, kamu dapat menggunakan endpoint `/send-message`. Berikut adalah contoh menggunakan `curl`:
 
-![fahrezi](https://github.com/user-attachments/assets/d9c84a2f-82dc-45b2-9b69-7e3a255df7b9)
 
 
 
