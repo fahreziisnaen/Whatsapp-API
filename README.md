@@ -50,7 +50,7 @@ Untuk mengirim pesan, kamu dapat menggunakan endpoint `/send-message`. Berikut a
    -d '{"message": "Hello Group!","id": "1234567890-1234567890@g.us"}'
 
 ### Mendapatkan id Group
-Untuk mendapatkan id group ....
+Untuk mendapatkan id group jalankan getgroup.js pada file /src/getgroup.js
 
 
 
